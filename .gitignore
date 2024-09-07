@@ -1,0 +1,7 @@
+# Ignore all .mp4 files
+*.mp4
+*.avi
+
+# Ignore all .pt files
+*.pt
+*.pkl
